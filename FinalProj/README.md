@@ -13,7 +13,7 @@ A quiz where the user inputs the name of a Pokemon based on the image provided. 
 
 ## YouTube Video Link:
 
- (Leave blank if no video)
+https://youtu.be/vr8oudCpUX8
 
 ## APIs:
 
